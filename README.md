@@ -4,6 +4,9 @@ Welcome to Minesweeper, a classic implementation of the beloved puzzle game, bui
 
 The game features a colorful, text-based UI, complete with animations for a more engaging user experience.
 
+
+https://github.com/user-attachments/assets/7377ef17-c60f-4fb3-b4a3-e3a6914a725b
+
 ---
 ## ✨ Features
 
